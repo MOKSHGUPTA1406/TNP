@@ -1,3 +1,5 @@
+# Date: 11-02-2026
+
 # 1. WAP to store your age and print it.
 
 age=int(input("Enter your age: "))
